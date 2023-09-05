@@ -1,0 +1,10 @@
+#####################
+#Spring Boot Setting
+#####################
+server:
+  port: 80
+
+
+spring:
+  application:
+    name: pillmuk-shop
